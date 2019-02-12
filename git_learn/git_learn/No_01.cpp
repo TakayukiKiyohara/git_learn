@@ -9,6 +9,5 @@ const char* GetKanjiName_01()
 //ひらがな表記の名前を返してください。
 const char* GetHiraganaName_01()
 {
-	hoge
 	return "やまだ　たろう";
 }
