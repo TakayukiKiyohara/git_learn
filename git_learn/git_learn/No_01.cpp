@@ -1,8 +1,9 @@
 #include "pch.h"
-hoge
+
 //漢字表記の名前を返してください。
 const char* GetKanjiName_01()
 {
+	hoge
 	return "山田　太郎";
 }
 
