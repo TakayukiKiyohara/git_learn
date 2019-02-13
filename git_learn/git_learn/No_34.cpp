@@ -3,11 +3,11 @@
 //漢字表記の名前を返してください。
 const char* GetKanjiName_34()
 {
-	return "山田　太郎";
+	return "井原　萌絵";
 }
 
 //ひらがな表記の名前を返してください。
 const char* GetHiraganaName_34()
 {
-	return "やまだ　たろう";
+	return "いはら　もえ";
 }
