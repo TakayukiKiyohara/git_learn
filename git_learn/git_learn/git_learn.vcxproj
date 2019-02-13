@@ -23,7 +23,7 @@
     <ProjectGuid>{5EF011E0-4F10-4FFA-BD1C-61F91B24EAF8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>gitlearn</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
