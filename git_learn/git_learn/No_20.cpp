@@ -9,5 +9,5 @@ const char* GetKanjiName_20()
 //ひらがな表記の名前を返してください。
 const char* GetHiraganaName_20()
 {
-	return "(´・ω・｀)";
+	return "(´・ω・｀)(´・ω・｀)";
 }
