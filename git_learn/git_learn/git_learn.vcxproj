@@ -155,6 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="git_learn.cpp" />
+    <ClCompile Include="No_00.cpp" />
     <ClCompile Include="No_01.cpp" />
     <ClCompile Include="No_02.cpp" />
     <ClCompile Include="No_03.cpp" />
