@@ -3,7 +3,7 @@
 //漢字表記の名前を返してください。
 const char* GetKanjiName_03()
 {
-	return "山";
+	return "(^_-)-☆";
 }
 
 //ひらがな表記の名前を返してください。
