@@ -3,7 +3,7 @@
 //漢字表記の名前を返してください。
 const char* GetKanjiName_16()
 {
-	return "玉田　紳之助";
+	return "TAMADA SINNOSUKE";
 }
 
 //ひらがな表記の名前を返してください。
