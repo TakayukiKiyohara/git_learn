@@ -3,11 +3,11 @@
 //漢字表記の名前を返してください。
 const char* GetKanjiName_26()
 {
-	return "山田　太郎";
+	return "宮内";
 }
 
 //ひらがな表記の名前を返してください。
 const char* GetHiraganaName_26()
 {
-	return "やまだ　たろう";
+	return"みやうち　としき";
 }
