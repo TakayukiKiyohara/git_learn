@@ -4,6 +4,7 @@
 const char* GetKanjiName_00()
 {
 	int a = 200;
+
 	return "ƒzƒQƒzƒQ@ƒzƒQƒzƒQ";
 }
 
