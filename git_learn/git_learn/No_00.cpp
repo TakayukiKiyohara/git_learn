@@ -10,5 +10,6 @@ const char* GetKanjiName_00()
 //ひらがな表記の名前を返してください。
 const char* GetHiraganaName_00()
 {
+	int b = 0;
 	return "ほげほげ　ほげほげ";
 }
